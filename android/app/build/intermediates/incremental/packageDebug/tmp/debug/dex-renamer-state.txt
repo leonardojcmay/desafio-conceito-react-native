@@ -1,0 +1,4 @@
+#Fri Apr 10 08:38:32 BRT 2020
+base.0=C\:\\Users\\leona\\Desktop\\Work\\Rocketseat\\gostack\\desafios\\desafio-conceito-react-native\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
